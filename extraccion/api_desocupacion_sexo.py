@@ -22,5 +22,5 @@ def extraer_api(url):
 if __name__ == "__main__":
     df1 = extraer_api("https://www.economia.gob.mx/datamexico/api/data?State=2&Economically+Active+Population=1&Population+Classification=2&cube=inegi_enoe&drilldowns=State,Quarter,Sex&measures=Workforce&locale=es&parents=false")
     df2 = extraer_api("https://www.economia.gob.mx/datamexico/api/data?State=2&Economically+Active+Population=1&Population+Classification=2&cube=inegi_enoe&drilldowns=State,Quarter,Sex&measures=Workforce&locale=es&parents=false")
-    df_desempleo = pd.concat([df1, df2])
-    df_desempleo.to_csv("datasets/total_activosBC.csv")
+    df = pd.concat([df1, df2])
+    df.to_csv("datasets/pob_desocupada_sexo.csv")
