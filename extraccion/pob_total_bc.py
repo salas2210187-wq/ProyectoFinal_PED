@@ -26,4 +26,4 @@ def extraer_api(url):
 
 if __name__ == "__main__":
     df1 = extraer_api("http://www.economia.gob.mx/datamexico/api/data?State=2&cube=inegi_enoe&drilldowns=State,Quarter&measures=Workforce&locale=es&parents=false")
-    df1.to_csv("datasets/pop_total_bc.csv")
+    df1.to_csv("datasets/pob_total_bc.csv")
