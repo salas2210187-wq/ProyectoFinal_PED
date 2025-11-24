@@ -1,6 +1,17 @@
 use Project_Final_Unemployment;
 
 -- ========================================================
+--                   Drop if exist
+-- ========================================================
+DROP VIEW IF EXISTS Vista_Evolucion_Desempleo_General;
+DROP VIEW IF EXISTS Vista_Desbalance_Genero_PEA;
+DROP VIEW IF EXISTS Vista_Salario_Por_Formalidad;
+DROP VIEW IF EXISTS Vista_Salario_Por_Genero;
+DROP VIEW IF EXISTS Vista_Composicion_Formalidad;
+DROP VIEW IF EXISTS Vista_Brecha_Salarial;
+DROP VIEW IF EXISTS Vista_Resumen_Anual;
+
+-- ========================================================
 --                  Vistas Generales
 -- ========================================================
 
