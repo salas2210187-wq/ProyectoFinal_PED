@@ -17,7 +17,7 @@ DROP VIEW IF EXISTS Vista_Resumen_Anual;
 
 -- -------------------------------------------------------------------------
 
--- 1. CREACIÓN DE LA VISTA: TENDENCIA DE DESEMPLEO Y OCUPACIÓN GENERAL
+-- 1. TENDENCIA DE DESEMPLEO Y OCUPACIÓN GENERAL
 CREATE VIEW Vista_Evolucion_Desempleo_General AS
 SELECT
     P.id_quarter AS ID_Periodo,
@@ -137,7 +137,7 @@ CREATE VIEW Vista_Brecha_Salarial AS
 SELECT 
     P.quarter_label AS Periodo,
     P.year_num AS Año,
-    -- Subconsultas o CASE para pivotar los datos en una sola fila por periodo
+    -- Subconsultas para transformar los datos en una sola fila por periodo
     MAX(CASE WHEN SM.id_gender = 1 THEN SM.average_monthly_wage END) AS Salario_Hombres,
     MAX(CASE WHEN SM.id_gender = 2 THEN SM.average_monthly_wage END) AS Salario_Mujeres,
     -- Cálculo directo de la brecha en pesos
@@ -156,8 +156,8 @@ select * from Vista_Brecha_Salarial where Año IN (2023, 2024);
 CREATE VIEW Vista_Resumen_Anual AS
 SELECT 
     P.year_num AS Año,
-    SUM(U.total_unemployed_count) AS Total_Desocupados_Acumulado, -- Es el total real
-    AVG(U.total_unemployed_count) AS Promedio_Desocupados_Trimestral, -- Es el promedio por trimestre
+    SUM(U.total_unemployed_count) AS Total_Desocupados_Acumulado, -- Es el total real de desocupados 
+    AVG(U.total_unemployed_count) AS Promedio_Desocupados_Trimestral, -- Es el promedio por trimestre de desocupados
     ROUND(AVG((U.total_unemployed_count * 100.0) / TP.total_population_count), 2) AS Tasa_Desempleo_Promedio_Anual
 FROM Periods P
 JOIN Unemployment U ON P.id_quarter = U.id_quarter
