@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="API's terminadas y actualizadas">
+      <change afterPath="$PROJECT_DIR$/dashboard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraccion/pob_desocupada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraccion/pob_desocupada_sexo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraccion/pob_pea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/limpieza_bd/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/limpieza_bd/limpieza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_opciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/Project_Final_Unemployment.sql" beforeDir="false" afterPath="$PROJECT_DIR$/limpieza_bd/Project_Final_Unemployment.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/Proyecto_Final_Desempleo.py" beforeDir="false" afterPath="$PROJECT_DIR$/limpieza_bd/Proyecto_Final_Desempleo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/api_desocupacion_sexo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_desocupada.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_desocupada_sexo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_pea_bc.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_pea_sexo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_salario_formalidad.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_salario_sexo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_total_bc.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/pob_desocupada_bc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/pob_pea_bc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/pob_pea_sexo.py" beforeDir="false" afterPath="$PROJECT_DIR$/extraccion/pob_pea_sexo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/pob_total_bc.py" beforeDir="false" afterPath="$PROJECT_DIR$/extraccion/pob_total.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/salario_formalidad.py" beforeDir="false" afterPath="$PROJECT_DIR$/extraccion/salario_formalidad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/salario_sexo.py" beforeDir="false" afterPath="$PROJECT_DIR$/extraccion/salario_sexo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;salas2210187-wq&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/salas2210187-wq/ProyectoFinal_PED.git&quot;,
+    &quot;accountId&quot;: &quot;2e66a2db-e27e-4bca-adf3-572a598118fa&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="35PLgxv7viPwfXuWQye2uc6e0EY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Common.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.Proyecto_Final_Desempleo.executor": "Run",
+    "Python.api_activosBC.executor": "Run",
+    "Python.api_desemp2.executor": "Run",
+    "Python.api_desempleo.executor": "Run",
+    "Python.api_desocupacion_sexo.executor": "Run",
+    "Python.api_desocupacion_total.executor": "Run",
+    "Python.api_poblacion_sexo_bc.executor": "Run",
+    "Python.api_salarios_base_bc.executor": "Run",
+    "Python.menu_opciones.executor": "Run",
+    "Python.pob_desocupada.executor": "Run",
+    "Python.pob_desocupada_bc.executor": "Run",
+    "Python.pob_desocupada_sexo.executor": "Run",
+    "Python.pob_pea.executor": "Run",
+    "Python.pob_pea_bc.executor": "Run",
+    "Python.pob_pea_sexo.executor": "Run",
+    "Python.pob_total.executor": "Run",
+    "Python.pob_total_bc.executor": "Run",
+    "Python.pop_pea_bc.executor": "Run",
+    "Python.pop_total_bc.executor": "Run",
+    "Python.salario_formalidad.executor": "Run",
+    "Python.salario_sexo.executor": "Run",
+    "Python.salarios_sexo_ocupada.executor": "Run",
+    "Python.tablas_inegi.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Mdp/PycharmProjects/PED/extraccion",
+    "settings.editor.selected.configurable": "configurable.group.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mdp\PycharmProjects\PED\extraccion" />
+      <recent name="C:\Users\Mdp\PycharmProjects\PED\extraccion\csv_inegi" />
+      <recent name="C:\Users\Mdp\PycharmProjects\PED\EXTRACCION\csv_inegi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mdp\PycharmProjects\PED" />
+      <recent name="C:\Users\Mdp\PycharmProjects\PED\limpieza_bd" />
+      <recent name="C:\Users\Mdp\PycharmProjects\PED\Dashboard" />
+      <recent name="C:\Users\Mdp\PycharmProjects\PED\extraccion" />
+      <recent name="C:\Users\Mdp\PycharmProjects\PED\extraccion\csv_inegi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Proyecto_Final_Desempleo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PED" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/limpieza_bd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/limpieza_bd/Proyecto_Final_Desempleo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pob_desocupada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PED" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/extraccion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extraccion/pob_desocupada.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Proyecto_Final_Desempleo" />
+        <item itemvalue="Python.pob_desocupada" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="" />
+      <created>1763006874894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763006874894</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1763007321308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763007321308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1763019989063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763019989063</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1763020104839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763020104839</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Actualización API">
+      <option name="closed" value="true" />
+      <created>1763092017419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763092017419</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Actualización API">
+      <option name="closed" value="true" />
+      <created>1763092145585</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763092145585</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Actualización API">
+      <option name="closed" value="true" />
+      <created>1763092227017</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763092227017</updated>
+    </task>
+    <task id="LOCAL-00007" summary="API's terminadas">
+      <option name="closed" value="true" />
+      <created>1763112686390</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763112686390</updated>
+    </task>
+    <task id="LOCAL-00008" summary="API's terminadas">
+      <option name="closed" value="true" />
+      <created>1763112699581</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763112699581</updated>
+    </task>
+    <task id="LOCAL-00009" summary="API's terminadas y actualizadas">
+      <option name="closed" value="true" />
+      <created>1763113302450</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763113302450</updated>
+    </task>
+    <task id="LOCAL-00010" summary="API's terminadas y actualizadas">
+      <option name="closed" value="true" />
+      <created>1763113317506</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763113317506</updated>
+    </task>
+    <task id="LOCAL-00011" summary="API's terminadas y actualizadas">
+      <option name="closed" value="true" />
+      <created>1763498176625</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763498176625</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Actualización API" />
+    <MESSAGE value="API's terminadas" />
+    <MESSAGE value="API's terminadas y actualizadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="API's terminadas y actualizadas" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dashboard/Main.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
