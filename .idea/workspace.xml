@@ -4,30 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="API's terminadas y actualizadas">
-      <change afterPath="$PROJECT_DIR$/dashboard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extraccion/pob_desocupada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extraccion/pob_desocupada_sexo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extraccion/pob_pea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limpieza_bd/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limpieza_bd/limpieza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu_opciones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/Project_Final_Unemployment.sql" beforeDir="false" afterPath="$PROJECT_DIR$/limpieza_bd/Project_Final_Unemployment.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/Proyecto_Final_Desempleo.py" beforeDir="false" afterPath="$PROJECT_DIR$/limpieza_bd/Proyecto_Final_Desempleo.py" afterDir="false" />
+    <list default="true" id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="Carpetas estructuradas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/extraccion/api_desocupacion_sexo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_desocupada.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_desocupada_sexo.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_pea_bc.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_pea_sexo.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_salario_formalidad.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_salario_sexo.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_total_bc.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/pob_desocupada_bc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/pob_pea_bc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/pob_pea_sexo.py" beforeDir="false" afterPath="$PROJECT_DIR$/extraccion/pob_pea_sexo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/pob_total_bc.py" beforeDir="false" afterPath="$PROJECT_DIR$/extraccion/pob_total.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/salario_formalidad.py" beforeDir="false" afterPath="$PROJECT_DIR$/extraccion/salario_formalidad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/salario_sexo.py" beforeDir="false" afterPath="$PROJECT_DIR$/extraccion/salario_sexo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763498176625</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Carpetas estructuradas">
+      <option name="closed" value="true" />
+      <created>1764735856264</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764735856264</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,14 +280,16 @@
     <MESSAGE value="Actualización API" />
     <MESSAGE value="API's terminadas" />
     <MESSAGE value="API's terminadas y actualizadas" />
-    <option name="LAST_COMMIT_MESSAGE" value="API's terminadas y actualizadas" />
+    <MESSAGE value="Carpetas estructuradas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Carpetas estructuradas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dashboard/Main.py</url>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/menu_opciones.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
