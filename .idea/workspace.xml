@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="Carpetas estructuradas" />
+    <list default="true" id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="Carpetas actualizadas">
+      <change beforePath="$PROJECT_DIR$/Dashboard/Common.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/Common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/Consultas_Especificas_PF.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/Consultas_Proyecto_final.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/Dashboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/Project_Final_Unemployment.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/Proyecto_Final_Desempleo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/SP con validaciones PF.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/api_desocupacion_sexo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_desocupada.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_desocupada_sexo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_pea_bc.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_pea_sexo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_salario_formalidad.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_salario_sexo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_total_bc.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/pob_desocupada_bc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/pob_pea_bc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/pob_pea_sexo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/pob_total_bc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/salario_formalidad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/salario_sexo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extraccion/triggers con validaciones PF.sql" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +75,7 @@
     &quot;Python.Common.executor&quot;: &quot;Run&quot;,
     &quot;Python.Main.executor&quot;: &quot;Run&quot;,
     &quot;Python.Proyecto_Final_Desempleo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Run.executor&quot;: &quot;Run&quot;,
     &quot;Python.api_activosBC.executor&quot;: &quot;Run&quot;,
     &quot;Python.api_desemp2.executor&quot;: &quot;Run&quot;,
     &quot;Python.api_desempleo.executor&quot;: &quot;Run&quot;,
@@ -142,8 +167,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Proyecto_Final_Desempleo" />
         <item itemvalue="Python.pob_desocupada" />
+        <item itemvalue="Python.Proyecto_Final_Desempleo" />
       </list>
     </recent_temporary>
   </component>
@@ -250,31 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763498176625</updated>
     </task>
-    <task id="LOCAL-00012" summary="Carpetas estructuradas">
+    <task id="LOCAL-00012" summary="Carpetas actualizadas">
       <option name="closed" value="true" />
-      <created>1764735856264</created>
+      <created>1764492573793</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1764735856264</updated>
+      <updated>1764492573793</updated>
     </task>
-    <task id="LOCAL-00013" summary="Carpetas estructuradas">
-      <option name="closed" value="true" />
-      <created>1764736375189</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1764736375189</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Carpetas estructuradas">
-      <option name="closed" value="true" />
-      <created>1764736474862</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1764736474862</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,16 +302,16 @@
     <MESSAGE value="Actualización API" />
     <MESSAGE value="API's terminadas" />
     <MESSAGE value="API's terminadas y actualizadas" />
-    <MESSAGE value="Carpetas estructuradas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Carpetas estructuradas" />
+    <MESSAGE value="Carpetas actualizadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Carpetas actualizadas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/menu_opciones.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/dashboard/Main.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
