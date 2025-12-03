@@ -1,6 +1,7 @@
+#Librería para la ventana del menú
 from tkinter import simpledialog, messagebox
 
-#Extraccion de apis
+#Importaciones para la Extraccion de apis
 from extraccion.pob_desocupada import ejecutar_des
 from extraccion.pob_desocupada_sexo import ejecutar_des2
 from extraccion.pob_pea import ejecutar_pea
@@ -9,10 +10,10 @@ from extraccion.pob_total import ejecutar_total
 from extraccion.salario_formalidad import ejecutar_form
 from extraccion.salario_sexo import ejecutar_gen
 
-#Limpieza y base de datos
+#Importaciones para Limpieza y base de datos
 from limpieza_bd.Proyecto_Final_Desempleo import etl
 
-#Dashboard
+#importaciones para ejecutar el Dashboard
 import subprocess
 import sys
 
