@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="Carpetas estructuradas">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/api_desocupacion_sexo.py" beforeDir="false" />
-    </list>
+    <list default="true" id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="Carpetas estructuradas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764735856264</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Carpetas estructuradas">
+      <option name="closed" value="true" />
+      <created>1764736375189</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764736375189</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Carpetas estructuradas">
+      <option name="closed" value="true" />
+      <created>1764736474862</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764736474862</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +301,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/menu_opciones.py</url>
-          <line>4</line>
+          <line>5</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
