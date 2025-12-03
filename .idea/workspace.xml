@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="Carpetas actualizadas">
-      <change beforePath="$PROJECT_DIR$/Dashboard/Common.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/Common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dashboard/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/Consultas_Especificas_PF.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/Consultas_Proyecto_final.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/Dashboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/Project_Final_Unemployment.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/Proyecto_Final_Desempleo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/SP con validaciones PF.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/api_desocupacion_sexo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_desocupada.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_desocupada_sexo.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_pea_bc.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_pea_sexo.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_salario_formalidad.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_salario_sexo.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/datasets/pob_total_bc.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/pob_desocupada_bc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/pob_pea_bc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/pob_pea_sexo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/pob_total_bc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/salario_formalidad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/salario_sexo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraccion/triggers con validaciones PF.sql" beforeDir="false" />
-    </list>
+    <list default="true" id="78d3be0b-f602-4134-8431-27e416b302d6" name="Changes" comment="Estructura completa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764492573793</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Estructura completa">
+      <option name="closed" value="true" />
+      <created>1764737060336</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764737060336</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Estructura completa">
+      <option name="closed" value="true" />
+      <created>1764737085484</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764737085484</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,7 +295,8 @@
     <MESSAGE value="API's terminadas" />
     <MESSAGE value="API's terminadas y actualizadas" />
     <MESSAGE value="Carpetas actualizadas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Carpetas actualizadas" />
+    <MESSAGE value="Estructura completa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estructura completa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
