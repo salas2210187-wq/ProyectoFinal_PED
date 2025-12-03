@@ -69,42 +69,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Common.executor": "Run",
-    "Python.Main.executor": "Run",
-    "Python.Proyecto_Final_Desempleo.executor": "Run",
-    "Python.api_activosBC.executor": "Run",
-    "Python.api_desemp2.executor": "Run",
-    "Python.api_desempleo.executor": "Run",
-    "Python.api_desocupacion_sexo.executor": "Run",
-    "Python.api_desocupacion_total.executor": "Run",
-    "Python.api_poblacion_sexo_bc.executor": "Run",
-    "Python.api_salarios_base_bc.executor": "Run",
-    "Python.menu_opciones.executor": "Run",
-    "Python.pob_desocupada.executor": "Run",
-    "Python.pob_desocupada_bc.executor": "Run",
-    "Python.pob_desocupada_sexo.executor": "Run",
-    "Python.pob_pea.executor": "Run",
-    "Python.pob_pea_bc.executor": "Run",
-    "Python.pob_pea_sexo.executor": "Run",
-    "Python.pob_total.executor": "Run",
-    "Python.pob_total_bc.executor": "Run",
-    "Python.pop_pea_bc.executor": "Run",
-    "Python.pop_total_bc.executor": "Run",
-    "Python.salario_formalidad.executor": "Run",
-    "Python.salario_sexo.executor": "Run",
-    "Python.salarios_sexo_ocupada.executor": "Run",
-    "Python.tablas_inegi.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Mdp/PycharmProjects/PED/extraccion",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Common.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Proyecto_Final_Desempleo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_activosBC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_desemp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_desempleo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_desocupacion_sexo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_desocupacion_total.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_poblacion_sexo_bc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_salarios_base_bc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.menu_opciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pob_desocupada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pob_desocupada_bc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pob_desocupada_sexo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pob_pea.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pob_pea_bc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pob_pea_sexo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pob_total.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pob_total_bc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pop_pea_bc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pop_total_bc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.salario_formalidad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.salario_sexo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.salarios_sexo_ocupada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tablas_inegi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mdp/PycharmProjects/PED/extraccion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mdp\PycharmProjects\PED\extraccion" />
@@ -119,7 +119,7 @@
       <recent name="C:\Users\Mdp\PycharmProjects\PED\extraccion\csv_inegi" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.pob_desocupada">
     <configuration name="Proyecto_Final_Desempleo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PED" />
       <option name="ENV_FILES" value="" />
